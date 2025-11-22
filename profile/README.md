@@ -5,7 +5,6 @@
 **Empoderando a víctimas de fraudes mediante tecnología open-source**
 
 [![Website](https://img.shields.io/badge/Web-claimeet.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://claimeet.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Laravel](https://img.shields.io/badge/Built_with-Laravel-red?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
 
 [🌐 Sitio Web](https://claimeet.com) • [📖 Acerca de](https://claimeet.com/about) • [💬 Contacto](https://claimeet.com/contact) • [🐛 Reportar Bug](https://claimeet.com/contact)
@@ -96,10 +95,7 @@ Democratizamos el acceso a la justicia para todos, sin importar su situación ec
 - 📢 **Community**: Moderación, soporte a usuarios
 - ⚖️ **Legal**: Asesoría legal, cumplimiento normativo
 
-**Cómo empezar:**
-1. Lee nuestra [Guía de Contribución](https://github.com/claimeet/website/blob/main/CONTRIBUTING.md)
-2. Busca [issues etiquetados como "good first issue"](https://github.com/claimeet/website/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-3. Únete a nuestro [Discord de la comunidad](#) (próximamente)
+**¿Quieres contribuir?** [Contáctanos](https://claimeet.com/contact)
 
 ---
 
@@ -163,20 +159,6 @@ Democratizamos el acceso a la justicia para todos, sin importar su situación ec
 
 ---
 
-## 📜 Licencia
-
-Todos nuestros proyectos son **open-source** bajo licencia **MIT**.
-
-Esto significa que puedes:
-- ✅ Usar el código comercialmente
-- ✅ Modificar y distribuir libremente
-- ✅ Hacer fork del proyecto
-- ✅ Uso privado sin restricciones
-
-Ver [LICENSE](https://github.com/claimeet/website/blob/main/LICENSE) para más detalles.
-
----
-
 ## 🙏 Agradecimientos
 
 Gracias a la increíble comunidad open-source que hace posible este proyecto:
@@ -184,7 +166,6 @@ Gracias a la increíble comunidad open-source que hace posible este proyecto:
 - [Laravel](https://laravel.com) - Por crear el mejor framework PHP
 - [Caleb Porzio](https://calebporzio.com) - Por Livewire
 - [Tailwind CSS](https://tailwindcss.com) - Por democratizar el diseño web
-- Todos nuestros [contributors](https://github.com/orgs/claimeet/people) - Por su tiempo y dedicación
 
 **Y especialmente a todas las víctimas de fraudes que confían en nuestra plataforma para recuperar lo que es suyo.**
 
