@@ -135,27 +135,20 @@ Democratizamos el acceso a la justicia para todos, sin importar su situación ec
 
 ---
 
-## 🗺️ Roadmap 2025
+## 🗺️ Roadmap
 
-### Q1 2025
-- ✅ Lanzamiento plataforma v1.0
-- ✅ Sistema de documentos mejorado
+### Q4 2025
 - 🔄 Notificaciones en tiempo real
+- 🔮 Búsqueda avanzada con filtros
+- 🔮 Mejoras en sistema de mensajería
 
-### Q2 2025
+### 2026
 - 🔮 API REST pública
 - 🔮 App móvil (iOS/Android)
 - 🔮 Integración con despachos de abogados
-
-### Q3 2025
-- 🔮 Marketplace de asesores legales
 - 🔮 Sistema de reputación de empresas
 - 🔮 Internacionalización (inglés, catalán)
-
-### Q4 2025
 - 🔮 IA para análisis de casos similares
-- 🔮 Firma digital de documentos
-- 🔮 Videoconferencias integradas
 
 ---
 
